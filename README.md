@@ -3,9 +3,6 @@ Credit Risk Analysis
 Introduction
 This tutorial shows how quantum algorithms can be used for credit risk analysis. More precisely, how Quantum Amplitude Estimation (QAE) can be used to estimate risk measures with a quadratic speed-up over classical Monte Carlo simulation. The tutorial is based on the following papers:
 
-Quantum Risk Analysis. Stefan Woerner, Daniel J. Egger. [Woerner2019]
-Credit Risk Analysis using Quantum Computers. Egger et al. (2019) [Egger2019]
-A general introduction to QAE can be found in the following paper:
 
 Quantum Amplitude Amplification and Estimation. Gilles Brassard et al.
 The structure of the tutorial is as follows:
