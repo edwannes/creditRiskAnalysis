@@ -664,5 +664,4 @@ Exact CVaR:    	3.0000
 Estimated CVaR:	3.2832
 import qiskit.tools.jupyter
 
-%qiskit_version_table
-%qiskit_copyright
+
